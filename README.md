@@ -1,6 +1,5 @@
 Registration Form
-This is the first part of the chat application, where users will register and use our application.
-Part 1:
+
 This is a user login and registration app using Node.js, Express, Passport, Mongoose, EJS and a few other packages.
 
 Version: 2.0.0
