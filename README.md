@@ -9,6 +9,6 @@ $ npm start
 # Or run with Nodemon
 $ npm run dev
 
-# Visit https://chat-application-varghese.herokuapp.com/
+# Visit https://registration-form-chat-app.herokuapp.com/
 MongoDB
 Open "config/keys.js" and add your MongoDB URI, local or Atlas
